@@ -1,0 +1,8 @@
+name: RedisTest
+main: main.redis.test.Testredis
+version: 0.0.1
+api-version: 1.13
+depend: [HyperNiteMC-Core]
+commands:
+  send:
+    description: send
